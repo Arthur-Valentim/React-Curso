@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: Helvetica;
+}
+
+body{
+  padding-bottom: 5000px;
+}
+
+h1{
+  color: #00bcf5;
+}
+
+
+/* classe dinâmica */
+.red-title{
+  font-size: 50px;
+  color: red;
+  background-color: #000;
+}
