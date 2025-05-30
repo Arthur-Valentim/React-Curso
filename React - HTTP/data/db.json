@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "name": "Capa de chuva",
+      "price": "50.50",
+      "id": "1"
+    },
+    {
+      "id": "0d9c",
+      "name": "Arroz",
+      "price": "10"
+    },
+    {
+      "id": "651c",
+      "name": "Teste",
+      "price": "123"
+    },
+    {
+      "id": "984d",
+      "name": "post",
+      "price": "10"
+    },
+    {
+      "id": "7071",
+      "name": "abc",
+      "price": "1000"
+    },
+    {
+      "id": "27cf",
+      "name": "Feijão",
+      "price": "15"
+    },
+    {
+      "id": "84df",
+      "name": "Tela",
+      "price": "1000"
+    }
+  ]
+}

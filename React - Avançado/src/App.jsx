@@ -16,7 +16,7 @@ import ConditionalRender from './components/ConditionalRender'
 import ShowUserNmae from './components/ShowUserNmae'
 
 // 9 - desestruturando props
-import CarDetails from './components/carDetails'
+import CarDetails from './components/CarDetails'
 
 // 11 - renderização ed listas de componentes
 const cars = [
