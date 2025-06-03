@@ -15,7 +15,7 @@ export const useFetch = (url) =>{
     const [load, setLoad] = useState(false)
 
     // 7 - erro
-    const [err, setErro] = useState(null)
+    const [erro, setErro] = useState(null)
 
     const htttpConfig = (data, method) =>{
         if(method === "POST"){
@@ -71,5 +71,5 @@ export const useFetch = (url) =>{
     httpREquest()
     },[config, method, url])
 
-    return {data, htttpConfig, load}
+    return {data, htttpConfig, load, erro}
 }
